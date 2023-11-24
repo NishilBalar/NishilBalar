@@ -4,7 +4,7 @@ As a Master student at University of Siegen, I have specialized in the field of 
 
 * 🌍 I'm based in Wolfsburg, Germany
 * 🔭 I’m currently working as an Inten in Volkswagen AG, wolfsburg
-* ✉️ You can contact me at nishilbalar07s@gmail.com for future work
+* ✉️ You can contact me at nishilbalar07@gmail.com for future work
 * 🧠 I'm learning more and more in state-of-the-art AI trends. 
 
 <!--
