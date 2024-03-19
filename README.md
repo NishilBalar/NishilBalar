@@ -6,7 +6,7 @@ As a Master student at University of Siegen, I have specialized in the field of 
 * 🔭 I’m currently working as Master Thesis student at Volkswagen AG, wolfsburg
 * ✉️ You can contact me at nishilbalar07@gmail.com for future work
 * 🧠 I'm learning more and more in state-of-the-art AI trends
-* 🤝 Connect to share ideas and collaborate at [Linkedin](www.linkedin.com/in/nishil-balar) 
+* 🤝 Connect to share ideas and collaborate at [Linkedin](https://www.linkedin.com/in/nishil-balar/) 
 
 <!--
 **NishilBalar/NishilBalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
