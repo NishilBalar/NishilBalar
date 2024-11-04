@@ -8,6 +8,7 @@ As a Master student at University of Siegen, I have specialized in the field of 
 * 🧠 I'm learning more and more in state-of-the-art AI trends
 * 🤝 Connect to share ideas and collaborate at [Linkedin](https://www.linkedin.com/in/nishil-balar/) 
 
+[![Nishil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishilBalar)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NishilBalar/NishilBalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
