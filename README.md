@@ -1,3 +1,5 @@
+![image](https://komarev.com/ghpvc/?username=NishilBalar&color=green)
+
 ### Hi there 👋 Nishilkumar Balar here. Just call me 'NISHIL'!
 
 As a Master student at University of Siegen, I have specialized in the field of Machine Learning and Computer Vision. I am aspiring to have a career in Artificial Intelligence that is challenging and growth-oriented, where the integration of my knowledge, abilities, and the organization's learning environment would foster both personal and professional growth! I am commited to continous learning and am always enagaged in numorous activites to enchance my knoweldge in the mentioned fields.  
