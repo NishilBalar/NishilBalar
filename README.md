@@ -2,10 +2,10 @@
 
 ### Hi there 👋 Nishilkumar Balar here. Just call me 'NISHIL'!
 
-As a Master student at University of Siegen, I have specialized in the field of Machine Learning and Computer Vision. I am aspiring to have a career in Artificial Intelligence that is challenging and growth-oriented, where the integration of my knowledge, abilities, and the organization's learning environment would foster both personal and professional growth! I am commited to continous learning and am always enagaged in numorous activites to enchance my knoweldge in the mentioned fields.  
+Currently working as a Research Associate at Fraunhofer IMTE, where I'm contributing to cutting-edge projects in Generative AI. Previously as a Master student at University of Siegen, I have specialized in the field of Machine Learning and Computer Vision. I'm passionate about building intelligent systems that blend creativity with technology. My journey is driven by curiosity, continuous learning, and a deep interest in solving real-world problems using AI. Whether it's experimenting with neural networks, exploring the latest in GenAI, or deploying scalable ML solutions — I'm always up for a challenge. 
 
-* 🌍 I'm based in Wolfsburg, Germany
-* 🔭 I’m currently working as Master Thesis student at Volkswagen AG, wolfsburg
+* 🌍 I'm based in Lübeck, Germany
+* 🔭 I'm currently working as Research Associate at Fraunhofer IMTE, Lübeck
 * ✉️ You can contact me at nishilbalar07@gmail.com for future work
 * 🧠 I'm learning more and more in state-of-the-art AI trends
 * 🤝 Connect to share ideas and collaborate at [Linkedin](https://www.linkedin.com/in/nishil-balar/) 
